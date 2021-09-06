@@ -8,8 +8,8 @@ function App() {
   return (
     <div>
       <Banner />
-      <Cart />
       <ShoppingList />
+      <Cart />
     </div>
   );
 }
